@@ -48,7 +48,7 @@ export CORS_ORIGINS="http://localhost:5173"
 
 4) Run backend:
 ```bash
-go run ./cmd/server
+go run ./cmd/server/main.go
 ```
 
 5) Run frontend:
